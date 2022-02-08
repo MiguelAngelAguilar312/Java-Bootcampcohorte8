@@ -6,7 +6,8 @@
 		//Scanner sc = new Scanner(System.in);
 		
 		/*
-		 * System.out.println("Introduce un numero"); int numero1 = sc.nextInt();
+		 * System.out.println("Introduce un numero"); 
+		 * int numero1 = sc.nextInt();
 		 */
 		
 		/*System.out.println("Introduce un numero");

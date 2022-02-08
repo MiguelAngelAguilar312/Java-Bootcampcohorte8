@@ -1,5 +1,7 @@
 package operaadores;
 
+import java.util.Scanner;
+
 public class Operadores {
 	public static void main(String[] args) {
 		//Operadores Aritméticos
@@ -145,6 +147,11 @@ public class Operadores {
 		System.out.println("Escribe un numero: ");
 		int num = sc.nextInt();
 		System.out.println(num);*/
+		
+		Scanner sc = new Scanner (System.in);
+		System.out.println("Escribe un numero: ");
+		int num = sc.nextInt();
+		System.out.println(num);
 	}
 
 }

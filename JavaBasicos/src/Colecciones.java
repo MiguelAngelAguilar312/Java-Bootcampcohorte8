@@ -124,8 +124,23 @@ public class Colecciones {
 		//LinkedList
 		/*
 		 * List<String> pokemones = new LinkedList<String>();
-		 * pokemones.add("Charmander");
+		 * digimones.add("Agumon");
+		 * digimones.add("Patamon");
+		 * digimones.add("Angemon");
+		 * digimones.add("Andromon");
+		 * digimones.add("Greymon");
 		 */
+         
+          /*Map
+           * Asocia claves a valores
+           * No puede contener claves duplicadas
+           * Solo puede tener un valor asociado
+           * */
+
+           /*HasMap
+            * Tiene mejor rendimiento pero no garantixa un orden
+            * a la hora de hacer iteraciones
+            * */
 		
 		
 		//}

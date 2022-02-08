@@ -31,6 +31,7 @@ public class Metodos {
 		return c * d;
 	}
 	
+	
 	//Metodo estatico
 	//estatico de void (no regresa datos), usa argumentos
 	public static void imprimirNombre(String nombre) {

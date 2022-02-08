@@ -35,6 +35,26 @@ la suma de los números pares y la suma de los números impares.
 		 * System.out.println("La suma de todos los elementos pares " + sumap);
 		 * System.out.println("La suma de todos los elementos inpares " + sumai);
 		 */
+
+         /*int numeros[]:
+          * numeros = new int[] (1, 6, 45, 53, 80, 102, 145, 326, 450, 892);
+          * 
+          * int sumaTotal = 0;
+          * int sumaPar = 0;
+          * int sumaInpar = 0;
+          * 
+          * for (int i=0; numeros.length; i++) {
+          *      if (numeros[i] % 2 ==0) {
+          *      sumaPar += numeros[i];
+          *      } else {
+          *      sumaImpar += numero[i];
+          *      }
+          *      sumaTotal += numero[i];   
+          * }
+          *System.out.println("La suma de todos los elementos es: " + sumaTotal);
+		  *System.out.println("La suma de todos los elementos pares: " + sumaPar);
+		  *System.out.println("La suma de todos los elementos inpares: " + sumaImpar);
+          * */
 		
 		
 		

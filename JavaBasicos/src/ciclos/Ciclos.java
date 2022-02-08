@@ -39,9 +39,16 @@ public class Ciclos {
 		/*for (int i=0; i < 10; i++) {
 			if (i % 2==0) {
 				//solo se ejecuta cuando el valor de i sea numero par
-				continue;
-			} 	System.out.println("Control = " + i);
+				continue;// permite saltarnos una ejecucion del ciclo
+				//deja que continue el ciclo
+			} 	
+			System.out.println("Control = " + i);
 		}
+		
+		for (int i=0; i < 10; i++) {
+			if (i % 2==0) {
+				continue;
+			} 
 	}
 
 }*/
